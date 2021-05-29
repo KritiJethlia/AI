@@ -13,12 +13,10 @@ After cloning the repository perform the steps as follows for each part.
 
 --------------------------------------------------------------------------------------------------
 ## **Problem  1**
---------------------------------------------------------------------------------------------------
 
 
 --------------------------------------------------------------------------------------------------
 ## **Problem 2**
---------------------------------------------------------------------------------------------------
 
 For different combination of soldiers, completing the task of shifting the soldiers with as minimal number of trips as possible given that at a time boat can hold atmax only 2 different coloured soldiers.
 
@@ -31,8 +29,9 @@ For different combination of soldiers, completing the task of shifting the soldi
 2) Open [Localhost](http://localhost:5000/).
 
 
-## **Problem 3**
 --------------------------------------------------------------------------------------------------
+## **Problem 3**
+
 Finding Shortest path for a given combination of source and destination points along with the distance and approximate travel time.
 
 ### **Setting up Database**
