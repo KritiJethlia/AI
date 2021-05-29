@@ -22,7 +22,7 @@ After cloning the repository perform the steps as follows for each part.
 
 For different combination of soldiers, completing the task of shifting the soldiers with as minimal number of trips as possible given that at a time boat can hold atmax only 2 different coloured soldiers.
 
-### **How to run the code**
+### **Executing the code**
 --------------------------------------------------------------------------------------------------
 
 1)   Run file: 
