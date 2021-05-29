@@ -1,3 +1,0 @@
-Tanay Gupta 2018AAPS0343H
-Mudit Chaturvedi 2018A7PS0248H
-Kriti Jethlia 2018A7PS0223H
